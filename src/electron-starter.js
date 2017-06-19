@@ -14,7 +14,7 @@ function createWindow() {
         protocol: 'file:',
         slashes: true
       });
-  mainWindow.loadURL('startUrl');
+  mainWindow.loadURL(startUrl);
   mainWindow.webContents.openDevTools();
   mainWindow.on('closed', () => mainWindow = null);
 }
