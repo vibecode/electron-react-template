@@ -4,12 +4,12 @@
   "private": true,
   "dependencies": {
     "electron": "^1.6.11",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "devDependencies": {
     "concurrently": "^3.4.0",
-    "react-scripts": "1.0.7",
+    "react-scripts": "^3.0.0",
     "wait-on": "^2.0.2"
   },
   "homepage": "./",
